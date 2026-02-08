@@ -30,48 +30,7 @@ I am a Software Engineering student with a strong focus on data analysis, task a
 
 ### 📋 Frontend Development
 
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
-  
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
-</p>
-
-
-
-
-### ☁️ Cloud
-
-<p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-  </a>   
-  
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
-  </a> 
-  
- <a href="https://cloud.google.com/" target="_blank"> 
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
-  </a>
-  
-</p>
-
-
-
-
-    
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,figma&theme=light)](https://skillicons.dev) 
 
 
 
