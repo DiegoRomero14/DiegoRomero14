@@ -42,7 +42,7 @@ I am a Software Engineering student with a strong focus on data analysis, task a
 
 ### 💾 Databases
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mssql,sqlserver,mongodb,postgres)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,sqlserver,mongodb,postgres)](https://skillicons.dev) 
 
 
 
