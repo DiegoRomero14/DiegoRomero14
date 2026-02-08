@@ -18,20 +18,7 @@ I am a Software Engineering student with a strong focus on data analysis, task a
 
 <br>
 
-  
 
-
- -  🔭 I’m currently working on something cool 😉
-
-- 👯 I’m looking forward to collaborate on python projects.
-
-- 🌱 Learning about Computer Vision and Machine Learning stuff
-
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-
-<br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
